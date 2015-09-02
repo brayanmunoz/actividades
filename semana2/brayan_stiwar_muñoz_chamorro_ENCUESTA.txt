@@ -1,33 +1,33 @@
-	Diligenciar las siguientes preguntas:
+ï»¿	Diligenciar las siguientes preguntas:
 	
-	1. ¿Cuál es su carrera?
+	1. Â¿CuÃ¡l es su carrera?
 	
 	ingenieria electronica 
 	
-	2. ¿En que semestre va?
+	2. Â¿En que semestre va?
 	
 	cuarta matricula
 	
-	3. ¿Qué asignaturas está viendo?
+	3. Â¿QuÃ© asignaturas estÃ¡ viendo?
 	
 	calculo integral, circuitos y dispositivos,geologia ambiental, constitucion y democracia, tecnicas de programacion
 	
-	4. ¿Porqué ingresó a estudiar esa carrera? ¿Qué lo(a) motivó?
+	4. Â¿PorquÃ© ingresÃ³ a estudiar esa carrera? Â¿QuÃ© lo(a) motivÃ³?
 	
 	porque siento mucha atracion por la electronica ademas de que con esta carrera puedo ayudar para que el pais supere su deficis en tecnologia
 	
-	5. ¿Qué habilidades quiere desarrollar como ingeniero(a)?
+	5. Â¿QuÃ© habilidades quiere desarrollar como ingeniero(a)?
 	
 	me gustaria desarrollar habilidades enfocadas en la automatizacion
 	
-	6. ¿Por qué tipo de actividades le gustaría que le pagaran a nivel profesional?
+	6. Â¿Por quÃ© tipo de actividades le gustarÃ­a que le pagaran a nivel profesional?
 	
 	me gustaria que me pagaran por desarrollar un sistema el cual este dado de dos sistemas ya relizados y asi con este innovar los ya realizados 
 	
-	7. ¿Qué le apasiona a nivel profesional?
+	7. Â¿QuÃ© le apasiona a nivel profesional?
 	
 	me apaciona la solucion de problemas relacionados con los numeros 
 	
-	8. ¿De qué parte de Colombia es?
+	8. Â¿De quÃ© parte de Colombia es?
 	
 	orgullosamente de puerto asis, putumayo"donde tambien existimos personas buenas y con ganas de mejorar su region "
